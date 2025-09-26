@@ -1,4 +1,4 @@
-module go.senan.xyz/gonic
+module github.com/msperl-github/gonic
 
 go 1.25
 
